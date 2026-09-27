@@ -269,8 +269,7 @@ simple-agent-tool/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/simple-agent-tool.git
-cd simple-agent-tool
+git clone git@github.com:Sienghrr/simple-safe-agent.git
 
 # 2. Install dependencies
 poetry install
